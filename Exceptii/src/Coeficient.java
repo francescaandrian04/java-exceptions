@@ -17,7 +17,6 @@ public class Coeficient {
         else
             System.out.println("Impartitorul/divizorul nu poate fi 0.");
 
-        System.out.println(number1 + " / " + number2 + " este " + (number1/number2));
 
     }
 }
