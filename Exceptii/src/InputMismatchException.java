@@ -18,8 +18,6 @@ public class InputMismatchException {
                 input.nextLine();
             }
         } while (continueInput);
-
-        System.out.println("Executia continuă ...");
     }
 
 }
